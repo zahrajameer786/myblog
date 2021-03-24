@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Groovy Coding",
+    "description": "",
+    "home_page_url": "https://zahrajameer786.github.io/myblog",
+    "feed_url": "https://zahrajameer786.github.io/myblog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Zuveir"
+    },
+    "items": [
+        {
+            "id": "https://zahrajameer786.github.io/myblog/javascript.html",
+            "url": "https://zahrajameer786.github.io/myblog/javascript.html",
+            "title": "Javascript",
+            "summary": "Javascript is one of the languages that can be used to understand programming. The beauty with the language is that it allows us to display formatted results to the browser. Add some CSS and we have some pretty output.",
+            "content_html": "<p>Javascript is one of the languages that can be used to understand programming. The beauty with the language is that it allows us to display formatted results to the browser. Add some CSS and we have some pretty output.</p>",
+            "author": {
+                "name": "Zuveir"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-03-24T16:25:45+00:00",
+            "date_modified": "2021-03-24T16:25:45+00:00"
+        }
+    ]
+}

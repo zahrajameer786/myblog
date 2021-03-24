@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zahrajameer786.github.io/myblog/sitemap.xml

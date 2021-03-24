@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Groovy Coding</title>
+    <link href="https://zahrajameer786.github.io/myblog/feed.xml" rel="self" />
+    <link href="https://zahrajameer786.github.io/myblog" />
+    <updated>2021-03-24T16:25:45+00:00</updated>
+    <author>
+        <name>Zuveir</name>
+    </author>
+    <id>https://zahrajameer786.github.io/myblog</id>
+
+    <entry>
+        <title>Javascript</title>
+        <author>
+            <name>Zuveir</name>
+        </author>
+        <link href="https://zahrajameer786.github.io/myblog/javascript.html"/>
+        <id>https://zahrajameer786.github.io/myblog/javascript.html</id>
+
+        <updated>2021-03-24T16:25:45+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Javascript is one of the languages that can be used to understand programming. The beauty with the language is that it allows us to display formatted results to the browser. Add some CSS and we have some pretty output.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Javascript is one of the languages that can be used to understand programming. The beauty with the language is that it allows us to display formatted results to the browser. Add some CSS and we have some pretty output.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
