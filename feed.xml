@@ -3,12 +3,32 @@
     <title>Groovy Coding</title>
     <link href="https://zahrajameer786.github.io/myblog/feed.xml" rel="self" />
     <link href="https://zahrajameer786.github.io/myblog" />
-    <updated>2021-03-24T16:25:45+00:00</updated>
+    <updated>2021-03-24T17:26:28+00:00</updated>
     <author>
         <name>Zuveir</name>
     </author>
     <id>https://zahrajameer786.github.io/myblog</id>
 
+    <entry>
+        <title>Coronavirus</title>
+        <author>
+            <name>Zuveir</name>
+        </author>
+        <link href="https://zahrajameer786.github.io/myblog/coronavirus.html"/>
+        <id>https://zahrajameer786.github.io/myblog/coronavirus.html</id>
+
+        <updated>2021-03-24T17:26:28+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Coronavirus has been disrupted human life.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Coronavirus has been disrupted human life.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Javascript</title>
         <author>
